@@ -20,10 +20,7 @@ const Assignment = () => {
 
   return (
     <div>
-
-      {/* {data.map((menu,index)=>{
-        {menu.map(()=>{})}
-      })} */}
+        <h1>CHANGES.......</h1>
       {data.map((menu,index) => {
        return(
         <div key={index}>
