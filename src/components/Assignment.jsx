@@ -21,7 +21,7 @@ const Assignment = () => {
   return (
     <div>
 
-     <h1>CHange Heading.....CR7 branch</h1>
+     <h1>Heading.....CR7 branch</h1>
       {data.map((menu,index) => {
        return(
         <div key={index}>
