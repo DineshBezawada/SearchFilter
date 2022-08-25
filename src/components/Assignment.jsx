@@ -20,7 +20,7 @@ const Assignment = () => {
 
   return (
     <div>
-          <h1>Heading ... CR7 Branch</h1>
+        
       {data.map((menu,index) => {
        return(
         <div key={index}>
